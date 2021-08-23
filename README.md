@@ -12,6 +12,9 @@
   ![unpaid summary](https://github.com/nhipqnguyen/Amazon_Vine_Analysis/blob/main/analysis/unpaid_summary.png)
 
 ## Summary
-state if there is any positivity bias for reviews in the Vine program.Then, provide one additional analysis that you could do with the dataset to support your statement
-- The summary states whether or not there is bias, and the results support this statement (2 pt)
-- An additional analysis is recommended to support the statement
+- As shown in the above tables, the percentages of 5-star reviews for the paid and unpaid types are 59.1% and 53.6%, respectively. The 5-star reviews account for a slightly higher percentage of all paid reviews than they do in the unpaid group. However, this difference is not significant considering the difference in size of 2 groups. Therefore, there is no significant bias for reviews for shoes products in the Vine program. 
+- Below is the comparison of the average rating of the products that were rated in both Vine and non-Vine groups:
+  
+  ![avg_rating_paid_vs_unpaidy](https://github.com/nhipqnguyen/Amazon_Vine_Analysis/blob/main/analysis/avg_rating_paid_vs_unpaid.png)
+
+ - Out of the 5 products that were rated in both groups, only 1 shows significant difference between the ratings (4.5 vs. 1). That being said, there is no significant bias for shoes products' review between the Vine and non-Vine groups.
